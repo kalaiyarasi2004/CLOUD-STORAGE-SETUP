@@ -41,3 +41,9 @@ AWS S3: Learned how to create and configure S3 buckets, enable static website ho
 Web Development: Gained experience integrating HTML and JavaScript for a functional UI/UX.
 Cloud Security: Understood how to configure public access safely and use policies to control content visibility.
 Deployment: Learned how to deploy static applications without using backend servers or traditional web hosting.
+
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/a66c495c-07b9-4ad0-b878-7c4d59e9e70c)
+
+![Image](https://github.com/user-attachments/assets/df179523-9420-40a1-ab97-dd947734ffef)
