@@ -1,10 +1,10 @@
 # CLOUD-STORAGE-SETUP
-Company: CodTech IT Solutions
-Name: KALAIYARASI S
-Intern ID: CT04DF2844
-Domain: Cloud Computing
-Duration: 4 Weeks
-Mentor: Neela Santosh
+#Company: CodTech IT Solutions
+#Name: KALAIYARASI S
+#Intern ID: CT04DF2844
+#Domain: Cloud Computing
+#Duration: 4 Weeks
+#Mentor: Neela Santosh
 
 During my 4-week internship at CodTech IT Solutions, I worked on a real-time cloud computing project titled "Ticket Booking System using AWS S3 Cloud Storage." The primary goal of this task was to gain hands-on experience with cloud infrastructure, specifically Amazon Web Services (AWS), and learn how to host, configure, and manage a static web application using AWS S3.
 
